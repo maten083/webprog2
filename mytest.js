@@ -1,0 +1,1 @@
+console.log("something write in js");
