@@ -1,4 +1,5 @@
-console.log("something write in js");
+console.log("write something in js");
+console.log("something in js");
 console.log("whatever");
 console.log("whatever");
 var x = "something in x";
