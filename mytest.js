@@ -8,7 +8,14 @@ var zs = "something in zs"
 console.log(x +', '+ y + ", " + z + "," + zs);
 console.log("new branch statement");
 
-function onClicked(){
+var button = document.querySelector("button");
+//console.log(button);
+let born = document.getElementById("born").value;
 
-    document.write("deleting page, and rebase new");
+button.onclick = function (e){
+    e.preventDefault();
+    if(born.match(/^[0-9]{4}-[0-9]{2}-[0-9]{2}$/)){
+        //To be continue...
+    }
+
 }
