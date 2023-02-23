@@ -6,4 +6,9 @@ var y = "something in y";
 var z = "something in z";
 var zs = "something in zs"
 console.log(x +', '+ y + ", " + z + "," + zs);
-console.log("new branch statement---");
+console.log("new branch statement");
+
+function onClicked(){
+
+    document.write("deleting page, and rebase new");
+}
