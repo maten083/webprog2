@@ -11,6 +11,6 @@ console.log(x +', '+ y + ", " + z + "," + zs);
 console.log("new branch statement");
 
 function onClicked(){
-
+    
     document.write("deleting page, and rebase new");
 }
